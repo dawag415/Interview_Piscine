@@ -1,0 +1,5 @@
+O(nk) time
+O(n+k) space
+
+n= number of keys
+k= size of the keys

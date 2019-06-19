@@ -1,0 +1,2 @@
+O(n + k) time k times for n elements
+O(k) for a count array

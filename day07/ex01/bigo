@@ -1,0 +1,2 @@
+O(n) time where n is the number of elments
+O(n- k +1)space where n is the number of elements and k is the size of the window

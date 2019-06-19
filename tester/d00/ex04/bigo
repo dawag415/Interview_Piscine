@@ -1,0 +1,3 @@
+O(n+m) to O(n*m) time, with n words in the bible and p patterns of combined length m.
+O(1) space.
+

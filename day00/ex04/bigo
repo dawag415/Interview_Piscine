@@ -1,0 +1,3 @@
+O(n+m)to (n*m) time, with n words in the bible.
+O(n) space.
+

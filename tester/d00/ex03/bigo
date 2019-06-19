@@ -1,0 +1,2 @@
+O(1) to O(n) time, with n the number of elements in the art array.
+O(n) space.
